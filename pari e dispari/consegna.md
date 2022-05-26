@@ -7,3 +7,7 @@ Dichiariamo chi ha vinto. Se l’utente aveva scelto pari e la somma è pari, ha
 
 ----------------------------------------------------------------------------------
 
+-faccio 2 prompt
+-funzione per generare un numero random
+-sommo i numeri e controllo se è pari o dispari
+-dichiaro il vincitore

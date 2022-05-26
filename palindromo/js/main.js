@@ -7,8 +7,8 @@ for (let i = (letters.length -1); i >= 0; i--) {
 }
 
 const reverseWord = reverseCheck.join('')
-console.log(letters);
-console.log(reverseCheck);
+console.log(reverseWord);
+console.log(word);
 
 if (reverseWord === word) {
     alert("La parola inserita è palindroma")
